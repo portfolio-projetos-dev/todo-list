@@ -1,4 +1,4 @@
-# 🎬 todo-list
+# 🎬 To-Do List
 
 <div align="center">
 <img src="https://github.com/portfolio-projetos-dev/todo-list/raw/main/.gitassets/capa.png" width="350" />
@@ -10,16 +10,16 @@
 </div>
 
 <div data-badges>
-    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
     <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
 </div>
 </div>
 
-DESCRIÇÃO
+To-Do List é uma aplicação desenvolvida para ajudar os usuários a organizarem suas tarefas diárias de forma simples e eficiente. A plataforma permite a criação, edição e gerenciamento de listas de afazeres, garantindo que compromissos importantes nunca sejam esquecidos.
+
+Com uma interface intuitiva e moderna, a aplicação proporciona uma experiência fluida para adicionar, categorizar e marcar tarefas como concluídas. Os usuários podem definir prazos e até mesmo organizar suas atividades por período, tornando o gerenciamento do tempo mais produtivo.
 
 ## 🖥️ Como rodar este projeto 🖥️
 
@@ -50,16 +50,18 @@ DESCRIÇÃO
 4. Inicie o servidor (Next.js):
 
     ```sh
-    npm run dev
+    nnpx react-native run-android
     ```
 
-5. Acesse o projeto em [http://localhost:3000](http://localhost:3000).
+5. Acesse o projeto no seu dispositivo.
 
 ## 🗒️ Features do projeto 🗒️
 
-- OUTRO
-- OUTRO
-- OUTRO
+- Criação e edição de tarefas de forma rápida e intuitiva
+- Marcação de tarefas como concluídas, facilitando o acompanhamento do progresso
+- Definição de prazos e lembretes para garantir que nenhuma tarefa seja esquecida
+- Interface responsiva e moderna, adaptada para diferentes dispositivos
+- Modo offline, permitindo o gerenciamento de tarefas sem necessidade de conexão com a internet
 
 ![](https://github.com/portfolio-projetos-dev/todo-list/raw/main/.gitassets/1.png)
 
@@ -69,5 +71,5 @@ DESCRIÇÃO
 
 ## 💎 Links úteis 💎
 
-- [Next.js](https://nextjs.org/docs)
-- [TypeScript](https://www.typescriptlang.org/docs)
+- [NodeJS](https://nodejs.org/docs/latest/api/)
+- [React Native](https://reactnative.dev/docs/environment-setup)
