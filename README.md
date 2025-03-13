@@ -61,7 +61,7 @@ Com uma interface intuitiva e moderna, a aplicação proporciona uma experiênci
 - Marcação de tarefas como concluídas, facilitando o acompanhamento do progresso
 - Definição de prazos e lembretes para garantir que nenhuma tarefa seja esquecida
 - Interface responsiva e moderna, adaptada para diferentes dispositivos
-- Modo offline, permitindo o gerenciamento de tarefas sem necessidade de conexão com a internet
+- Aplicação offline, permitindo o gerenciamento de tarefas sem necessidade de conexão com a internet
 
 ![](https://github.com/portfolio-projetos-dev/todo-list/raw/main/.gitassets/1.png)
 
