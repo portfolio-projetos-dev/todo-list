@@ -1,4 +1,4 @@
-# 🎬 To-Do List
+# ✅ To-Do List
 
 <div align="center">
 <img src="https://github.com/portfolio-projetos-dev/todo-list/raw/main/.gitassets/capa.png" width="350" />
